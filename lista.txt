@@ -1,0 +1,42 @@
+Exercícios
+
+1)	Crie um Banco de Dados Escola.
+
+2)	Crie a seguinte tabela e insira os seguintes dados:
+
+Alunos:
+RA	NOME	TELEFONE	IDADE	CÓD_CURSO
+1	Maria 	363102211	17	1
+2	Fernando	36312200	16	2
+3	Carlos	36315599	15	2
+4	Paulo	36562211	17	1
+5	João	36457788	25	3
+6	Gustavo	36568877	21	3
+7	Otavio	36517788	21	4
+8	Thais	36666666	17	2
+9	Marcos	35997744	26	4
+
+
+Cursos:
+COD_CURSO	NOME
+1	Ensino médio
+2	Técnico em Informática
+3	Técnico em Alimentos
+4	Técnico em Mecânica
+
+
+3)	Consulte todos os registros da tabela Alunos.
+
+4)	Consulte nome e código do curso dos alunos de Informática.
+
+5)	Consulte nome e idade dos alunos maiores de 20 anos.
+
+6)	Consulte todos os alunos do curso de Mecânica.
+
+7)	Consulte os alunos com idade de 17 anos 
+
+8)	Consulte o nome dos alunos com idade de 21 anos do curso de alimentos.
+
+9)	Consulte todos os registros da tabela Cursos.
+
+10)	 Consulte o nome dos alunos do ensino médio.
